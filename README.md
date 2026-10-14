@@ -13,8 +13,5 @@ brew install differ
 brew install tinytomato
 ```
 
-If you tapped `federicosandrelli/tinytomato` before, that tap now holds both
-casks: skip `brew tap` and run `brew update`, then `brew install differ`.
-
 The casks remove the quarantine attribute after the install, so macOS opens
 the apps on the first launch.

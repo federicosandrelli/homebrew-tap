@@ -1,6 +1,6 @@
 cask "differ" do
-  version "0.1.73"
-  sha256 "5b4a4f60679e338fa2a291ff248b88b233d1767f2d2e4d20e8ea3959f7ed310c"
+  version "0.1.74"
+  sha256 "ab8060fb4206aa39d5841fa1df20400468212bac51a1d6b78ac55b87e79e8824"
 
   url "https://github.com/federicosandrelli/differ/releases/download/v#{version}/differ_#{version}_aarch64.dmg"
   name "differ"
